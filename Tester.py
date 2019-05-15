@@ -9,7 +9,7 @@ prediction.setModelPath("idenprof_061-0.7933.h5")
 prediction.setJsonPath("idenprof_model_class.json")
 prediction.loadModel(num_objects=10)
 
-predictions, probabilities = prediction.predictImage("test-images\\firefighter-4.jpg", result_count=3)
+predictions, probabilities = prediction.predictImage("test-images\\test.jpg", result_count=3)
 
 for eachPrediction, eachProbability in zip(predictions, probabilities):
     print(eachPrediction , " : " , eachProbability)
