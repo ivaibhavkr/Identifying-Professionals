@@ -1,5 +1,4 @@
 # Identifying-Professionals
-# IdenProf
 IdenProf is a dataset containing images of identifiable professionals.
 <hr>
 <b>IdenProf</b> is a dataset of identifiable professionals, collected in order to ensure that machine learning systems can be trained
