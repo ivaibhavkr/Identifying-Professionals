@@ -18,12 +18,12 @@ IdenProf is a dataset containing images of identifiable professionals.
   - <b> Police </b> <br>
   - <b> Waiter </b> <br> <br>
 
-
-<img src="test-images/firefighter-4.jpg" />
+<b>>>> Prediction Results</b> <br><br>
+<img src="test-images/test.jpg" />
 <pre>
-firefighter  :  99.50887560844421
-judge  :  0.29672819655388594
-mechanic  :  0.1719189342111349
+firefighter  :  99.34611320495605
+engineer  :  0.6461600307375193
+police  :  0.007283269223989919
 </pre>
 
 <hr>
